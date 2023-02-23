@@ -85,5 +85,28 @@ Some JavaScript coding problems
 14. //Input-  "abcd"
 
    //Output - a-Bb-Ccc-Dddd (Captal and frequency with postion in string number)
+   
+ 15. Find the next palindrome number. If I pass any integer value to function it should return the next palindrome number.
+      For example:
+      If I pass 105 - it should return 111
+      If I pass 100 - it should return 101
+      
+ 16. Print the first “n” prime numbers. N is anything a user might enter.
+      For example:
+      n = 5 Output is 2,3,5,7,11
+      n = 8 Output is 2,3,5,7,11,13,17,19
+      
+  17. Write a function fib() that takes an integer n and returns the series up to nth Fibonacci number.
+	
+        For example: 
+
+      fib(1);  // => 1
+      fib(2);  // => 1, 1
+      fib(3);  // => 1, 1, 2
+      fib(4);  // => 1, 1, 2, 3
+      fib(5);  // => 1, 1, 2, 3, 5
+      fib(6);  // => 1, 1, 2, 3, 5, 8
+
+
 
  
